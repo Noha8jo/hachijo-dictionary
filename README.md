@@ -1,2 +1,2 @@
-# hachijo-dictionary
+# 八丈方言辞典
 
